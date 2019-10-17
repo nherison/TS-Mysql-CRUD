@@ -1,0 +1,9 @@
+{
+	
+	"db": {
+		"dbHost": "localhost",
+		"dbUser": "test",
+		"dbPwd": "test",
+		"dbName": "test"
+	}
+}
